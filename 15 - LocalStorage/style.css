@@ -65,7 +65,7 @@ h2 {
 }
 
 .plates input:checked + label:before {
-  content: '🌮';
+  content: "\01F525";
 }
 
 .add-items {
